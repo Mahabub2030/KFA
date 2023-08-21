@@ -4,6 +4,6 @@ $(document).ready(function name(params) {
     });
 
     table.buttons().container()
-    .appendTo('#example_wrapper .col-md-6')
+    .appendTo('#example_wrapper .col-md-6:eq(0)');
     
 });
