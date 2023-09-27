@@ -1,5 +1,5 @@
 .header_part{
-    background: #241e1e;
+    background: #1c1919;
     padding: 10px 90px;
     /* position:; */
     top: 0;
@@ -19,6 +19,6 @@
 .data_table{
     background: #fff;
     padding: 15px;
-    box-shadow: 1px 3px 5px #aaa;
+    box-shadow: 1px 3px 5px #696464;
     border-radius: 5px;
 }
